@@ -3,7 +3,7 @@
 - Mobbin 상세 페이지: https://mobbin.com/flows/76793f73-e2a2-4d7c-a972-b8fcb498ddb1?tab=screens
 - 앱·기기: stoic. iOS, 393×852
 - 화면 수: 상세 페이지 12장 / 저장 이미지 12장 / 아래 설명 12개
-- 검증 상태: **blocked** — 11→12에서 호흡 운동 Yes·No 중 어느 입력이 사용됐는지 캡처에서 확인할 수 없다.
+- 검증 상태: **verified** — 목록·상세 제목·URL과 12장의 순서를 대조했다. 빠른 호흡 운동 질문의 `Yes` 선택은 사용자 확인을 받았다. 운동 실행 과정은 제공된 화면에 없다.
 
 ```mermaid
 flowchart TD
@@ -28,7 +28,7 @@ flowchart TD
   S10["다음에 다루고 싶은 감정 목록에서 Inspired가 체크되어 있다."]
   S10 -->|다음 화살표를 누른다.| S11
   S11["빠른 호흡 운동을 할지 묻는 Yes·No가 보인다."]
-  S11 -->|운동을 건너뛰는 No를 선택한 것으로 추정된다.| S12
+  S11 -->|빠른 호흡 운동 질문에 Yes 선택| S12
   S12["Good job! You've Completed Mood Check-In과 즐김 피드백 No·A little·Yes가 보인다."]
 ```
 
@@ -44,12 +44,12 @@ flowchart TD
 8. ![화면 8](screenshots/screen-08.webp) `inspired by you.` 안내에 영감을 활용하라는 문구가 보인다. 다음 화살표를 누른다. 다음 화면에서는 목표 질문에 `Finish reading that one book I keep ignoring.`가 입력되어 있다.
 9. ![화면 9](screenshots/screen-09.webp) 목표 질문에 `Finish reading that one book I keep ignoring.`가 입력되어 있다. 다음 화살표를 누른다. 다음 화면에서는 다음에 다루고 싶은 감정 목록에서 Inspired가 체크되어 있다.
 10. ![화면 10](screenshots/screen-10.webp) 다음에 다루고 싶은 감정 목록에서 Inspired가 체크되어 있다. 다음 화살표를 누른다. 다음 화면에서는 빠른 호흡 운동을 할지 묻는 Yes·No가 보인다.
-11. ![화면 11](screenshots/screen-11.webp) 빠른 호흡 운동을 할지 묻는 Yes·No가 보인다. 운동을 건너뛰는 `No`를 선택한 것으로 추정된다. 다음 화면에서는 `Good job! You've Completed Mood Check-In`과 즐김 피드백 No·A little·Yes가 보인다.
+11. ![화면 11](screenshots/screen-11.webp) 빠른 호흡 운동을 할지 묻는 Yes·No가 보인다. 사용자 확인에 따르면 `Yes`를 선택했다. 실제 호흡 운동 수행 화면은 제공되지 않으며, 다음 화면에서는 `Good job! You've Completed Mood Check-In`과 즐김 피드백 No·A little·Yes가 보인다.
 12. ![화면 12](screenshots/screen-12.webp) `Good job! You've Completed Mood Check-In`과 즐김 피드백 No·A little·Yes가 보인다.
 
 ## BMad handoff notes
 
 - **관찰된 진입 상태:** Today의 새 기록 메뉴.
-- **주요 행동:** 기분과 감정 단어를 고르고 상황·목표를 적어 기분 체크인을 완료한다.
-- **기대 결과:** Mood Check-In 완료와 피드백 선택지가 보인다. 호흡 운동 수행은 확인 불가.
+- **주요 행동:** 기분과 감정 단어를 고르고 상황·목표를 적고 빠른 호흡 운동 질문에 `Yes`를 선택해 기분 체크인을 완료한다.
+- **기대 결과:** Mood Check-In 완료와 피드백 선택지가 보인다. 호흡 운동의 실제 수행 과정은 화면에서 확인 불가.
 - **되돌릴 수 있거나 파괴적인 동작:** 편집 단계에는 뒤로 가기와 X가 보인다. 완료 후 수정·삭제는 화면에서 확인 불가.

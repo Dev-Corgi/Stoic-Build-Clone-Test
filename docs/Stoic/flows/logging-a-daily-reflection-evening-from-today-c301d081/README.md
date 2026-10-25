@@ -3,7 +3,7 @@
 - Mobbin 상세 페이지: https://mobbin.com/flows/c301d081-140b-44a9-983a-9b891020f3c0?tab=screens
 - 앱·기기: stoic. iOS, 393×852
 - 화면 수: 상세 페이지 12장 / 저장 이미지 12장 / 아래 설명 12개
-- 검증 상태: **blocked** — 7→8 사진 접근 허용의 OS 화면과 11→12 완료 화면 종료 조작이 캡처에 없다.
+- 검증 상태: **verified** — 목록·상세 제목·URL과 12장의 순서를 대조했다. 사진 접근 허용과 완료 화면의 `Yes` 선택은 사용자 확인을 받았다. OS 권한창 자체는 캡처에 없다.
 
 ```mermaid
 flowchart TD
@@ -28,7 +28,7 @@ flowchart TD
   S10["데이트·아이스크림·노을에 관한 긴 요약 본문이 입력된다."]
   S10 -->|다음 화살표를 누른다.| S11
   S11["Good job! You've Completed your Evening Reflection과 3 day streak, Did you feel prepared fo"]
-  S11 -->|선택을 마치고 종료한다| S12
+  S11 -->|준비되었는지 묻는 질문에 Yes 선택| S12
   S12["Today의 Evening complete 카드에 Satisfied·Happy 및 +3 more가 표시된다."]
 ```
 
@@ -40,16 +40,16 @@ flowchart TD
 4. ![화면 4](screenshots/screen-04.webp) Satisfied·Happy·Relaxed가 검게 선택된다. `Show more emotions`를 누른다. 다음 화면에서는 기존 선택 세 가지를 유지한 채 아래 Tired·Bored 등의 추가 감정이 보인다.
 5. ![화면 5](screenshots/screen-05.webp) 기존 선택 세 가지를 유지한 채 아래 Tired·Bored 등의 추가 감정이 보인다. 추가 목록을 아래로 스크롤한다. 다음 화면에서는 Angry·Embarrassed·Sad·Anxious 등 하단 감정 목록과 Show less가 보인다.
 6. ![화면 6](screenshots/screen-06.webp) Angry·Embarrassed·Sad·Anxious 등 하단 감정 목록과 Show less가 보인다. 선택은 유지하고 다음 화살표를 누른다. 다음 화면에서는 `Write a short summary of your day.`에 사진 권한 요청 Give Permissions와 빈 글쓰기 칸이 보인다.
-7. ![화면 7](screenshots/screen-07.webp) `Write a short summary of your day.`에 사진 권한 요청 Give Permissions와 빈 글쓰기 칸이 보인다. `Give Permissions`를 눌러 사진 접근을 허용한다. OS 권한 확인창은 캡처에 없다. 다음 화면에서는 요약 화면에 사진 3장의 썸네일과 각각 추가 `+`가 나타난다.
+7. ![화면 7](screenshots/screen-07.webp) `Write a short summary of your day.`에 사진 권한 요청 Give Permissions와 빈 글쓰기 칸이 보인다. `Give Permissions`를 누르고 사진 접근을 허용했다(사용자 확인). OS 권한 확인창은 캡처에 없다. 다음 화면에서는 요약 화면에 사진 3장의 썸네일과 각각 추가 `+`가 나타난다.
 8. ![화면 8](screenshots/screen-08.webp) 요약 화면에 사진 3장의 썸네일과 각각 추가 `+`가 나타난다. 첫 두 사진을 선택한다. 다음 화면에서는 바다 사진과 다른 사진 두 장이 첨부되고 세 번째는 `+`로 남아 있다.
 9. ![화면 9](screenshots/screen-09.webp) 바다 사진과 다른 사진 두 장이 첨부되고 세 번째는 `+`로 남아 있다. 오늘의 요약 글을 입력한다. 다음 화면에서는 데이트·아이스크림·노을에 관한 긴 요약 본문이 입력된다.
 10. ![화면 10](screenshots/screen-10.webp) 데이트·아이스크림·노을에 관한 긴 요약 본문이 입력된다. 다음 화살표를 누른다. 다음 화면에서는 `Good job! You've Completed your Evening Reflection`과 3 day streak, `Did you feel prepared for the night?` Yes 선택이 보인다.
-11. ![화면 11](screenshots/screen-11.webp) `Good job! You've Completed your Evening Reflection`과 3 day streak, `Did you feel prepared for the night?` Yes 선택이 보인다. 선택을 마치고 종료한다. 정확한 버튼 입력은 화면에서 확인 불가. 다음 화면에서는 Today의 Evening complete 카드에 Satisfied·Happy 및 +3 more가 표시된다.
+11. ![화면 11](screenshots/screen-11.webp) `Good job! You've Completed your Evening Reflection`과 3 day streak, `Did you feel prepared for the night?` Yes 선택이 보인다. 사용자 확인에 따르면 `Did you feel prepared for the night?`에 `Yes`를 눌렀다. 다음 화면에서는 Today의 Evening complete 카드에 Satisfied·Happy 및 +3 more가 표시된다.
 12. ![화면 12](screenshots/screen-12.webp) Today의 Evening complete 카드에 Satisfied·Happy 및 +3 more가 표시된다.
 
 ## BMad handoff notes
 
 - **관찰된 진입 상태:** Today의 Evening Reflection 카드.
-- **주요 행동:** 휴식 점수를 진행하고 감정 세 가지를 선택한 뒤 사진과 글로 하루를 요약한다.
+- **주요 행동:** 휴식 점수를 진행하고 감정 세 가지를 선택한 뒤 사진 접근을 허용하고 사진과 글로 하루를 요약한 뒤 완료 질문에 `Yes`를 누른다.
 - **기대 결과:** 완료 화면에 3일 연속 기록이 보이고 Today 카드가 Evening complete로 바뀐다.
 - **되돌릴 수 있거나 파괴적인 동작:** 작성 중 뒤로 가기와 X가 보인다. 사진 첨부 및 완료 후 기록 삭제는 확인 불가.

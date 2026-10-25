@@ -3,7 +3,7 @@
 - Mobbin 상세 페이지: https://mobbin.com/flows/3c1b50df-db4c-4db4-ab62-8c334a0adbd6?tab=screens
 - 앱·기기: stoic. iOS, 393×852
 - 화면 수: 상세 페이지 18장 / 저장 이미지 18장 / 아래 설명 18개
-- 검증 상태: **blocked** — 13→14의 정확한 입력과 AI 처리 완료 시점이 캡처로 확인되지 않는다.
+- 검증 상태: **verified** — 목록·상세 제목·URL과 18장의 순서를 대조했다. Frida 처리 중 읽을거리 카드의 `Yes` 선택은 사용자 확인을 받았으며, AI 처리 완료는 해당 선택의 결과로 취급하지 않는다.
 
 ```mermaid
 flowchart TD
@@ -32,7 +32,7 @@ flowchart TD
   S12["Funky Frida의 Add a magic touch와 Continue가 보인다."]
   S12 -->|Continue를 누른다.| S13
   S13["Frida is shaking things up.."]
-  S13 -->|대기 카드의 Yes를 누른 것으로 추정된다.| S14
+  S13 -->|로딩 중 읽을거리 카드의 Yes를 눌러 다음 읽을거리로 이동| S14
   S14["같은 AI 처리 화면에 평균 수명 관련 사실과 Next가 보인다."]
   S14 -->|AI 응답이 나타날 때까지 기다린다.| S15
   S15["AI가 가족에게 존재감을 전하는 방법을 묻고, 가족에게 메모·재생목록·커피를 전하는 답변이 입력되어 있다."]
@@ -58,7 +58,7 @@ flowchart TD
 10. ![화면 10](screenshots/screen-10.webp) 계획 본문이 입력되고 오른쪽 아래 다음 화살표가 보인다. 다음 화살표를 누른다. 다음 화면에서는 Deepen Your Reflection의 Heroic Hypatia 카드가 나타난다.
 11. ![화면 11](screenshots/screen-11.webp) Deepen Your Reflection의 Heroic Hypatia 카드가 나타난다. 캐릭터를 넘겨 Funky Frida를 고른다. 다음 화면에서는 Funky Frida의 `Add a magic touch`와 Continue가 보인다.
 12. ![화면 12](screenshots/screen-12.webp) Funky Frida의 `Add a magic touch`와 Continue가 보인다. `Continue`를 누른다. 다음 화면에서는 `Frida is shaking things up...` AI 처리 안내와 사실 카드 Yes가 보인다.
-13. ![화면 13](screenshots/screen-13.webp) `Frida is shaking things up...` AI 처리 안내와 사실 카드 Yes가 보인다. 대기 카드의 `Yes`를 누른 것으로 추정된다. 다음 화면에서는 같은 AI 처리 화면에 평균 수명 관련 사실과 Next가 보인다.
+13. ![화면 13](screenshots/screen-13.webp) `Frida is shaking things up...` AI 처리 안내와 사실 카드 Yes가 보인다. 사용자 확인에 따르면 로딩 중 읽을거리 카드의 `Yes`를 눌렀다. 다음 화면에서는 AI 처리 안내가 유지된 채 평균 수명 관련 사실과 `Next`가 보인다. 이 입력이 AI 처리 속도나 완료 시점에 영향을 주지는 않는다.
 14. ![화면 14](screenshots/screen-14.webp) 같은 AI 처리 화면에 평균 수명 관련 사실과 Next가 보인다. AI 응답이 나타날 때까지 기다린다. 다음 화면에서는 AI가 가족에게 존재감을 전하는 방법을 묻고, 가족에게 메모·재생목록·커피를 전하는 답변이 입력되어 있다.
 15. ![화면 15](screenshots/screen-15.webp) AI가 가족에게 존재감을 전하는 방법을 묻고, 가족에게 메모·재생목록·커피를 전하는 답변이 입력되어 있다. 다음 화살표를 누른다. 다음 화면에서는 첫 성찰 완료와 `1 DAY STREAK`, Use streaks 토글이 보인다.
 16. ![화면 16](screenshots/screen-16.webp) 첫 성찰 완료와 `1 DAY STREAK`, Use streaks 토글이 보인다. 다음 화살표를 누른다. 다음 화면에서는 연속 기록 목표를 3·10·15·30일 중 고르는 화면에서 3 days가 선택되어 있다.
@@ -68,6 +68,6 @@ flowchart TD
 ## BMad handoff notes
 
 - **관찰된 진입 상태:** Today의 Morning Preparation Begin 카드.
-- **주요 행동:** 수면 점수와 집중 영역을 고르고 계획을 작성한 뒤 AI 심화 질문에 답하고 연속 기록 목표를 정한다.
+- **주요 행동:** 수면 점수와 집중 영역을 고르고 계획을 작성한 뒤 AI 처리 중 읽을거리 카드를 넘기고 심화 질문에 답한 뒤 연속 기록 목표를 정한다.
 - **기대 결과:** 첫 성찰 완료와 1일 연속 기록, Family·Self-care 집중 결과가 보인다.
 - **되돌릴 수 있거나 파괴적인 동작:** 진행 중 뒤로 가기와 X가 보인다. 완료된 성찰 삭제·수정은 화면에서 확인 불가.
