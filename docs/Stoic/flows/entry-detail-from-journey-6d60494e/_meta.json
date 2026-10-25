@@ -8,6 +8,10 @@
   "device": "iOS (393x852)",
   "detailScreenCount": 4,
   "savedImageCount": 4,
+  "flowScreenshotCount": 3,
+  "excludedImageCount": 1,
+  "excludedImage": "excluded/screen-04-quote-journal.webp",
+  "exclusionReason": "Mobbin screen 4 is a different Journey Quote Journal entry, not a continuation of the Morning Reflection detail (user confirmed).",
   "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\entry-detail-from-journey-6d60494e",
   "alts": [
     "Entry detail on stoic. (ios) screen 1",

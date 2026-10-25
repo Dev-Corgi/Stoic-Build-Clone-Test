@@ -2,10 +2,12 @@
 
 Mobbin의 Stoic iOS 플로우 목록을 순서대로 조사한 기록입니다. 각 폴더의 `_meta.json`에는 목록 순서, 상세 제목·URL, 화면 수와 이미지 대체 텍스트를 보존했습니다.
 
+표의 화면 수는 각 플로우에 채택한 화면 수입니다. `Entry detail from Journey`의 Mobbin 원본 4번째 화면은 다른 기록이 섞인 것으로 확인되어 별도 보존하고 플로우에서 제외했습니다.
+
 - 플로우: 64개
-- 스크린샷: 369장
-- verified: 63개
-- blocked: 1개
+- 원본 스크린샷: 369장 (플로우 채택 368장, 잘못 섞인 화면 1장 별도 보존)
+- verified: 64개
+- blocked: 0개
 
 | # | 플로우 | 화면 | 상태 |
 |---:|---|---:|---|
@@ -58,7 +60,7 @@ Mobbin의 Stoic iOS 플로우 목록을 순서대로 조사한 기록입니다. 
 | 47 | [Excluding words from words cloud from Trends & insights](excluding-words-from-words-cloud-from-trends-insights-073e4bf7/README.md) | 7 | verified |
 | 48 | [Sorting by months from Trends & insights](sorting-by-months-from-trends-insights-a1411599/README.md) | 6 | verified |
 | 49 | [Removing an excluded word from Excluding words from words cloud](removing-an-excluded-word-from-excluding-words-from-wor-576943f3/README.md) | 3 | verified |
-| 50 | [Entry detail from Journey](entry-detail-from-journey-6d60494e/README.md) | 4 | blocked |
+| 50 | [Entry detail from Journey](entry-detail-from-journey-6d60494e/README.md) | 3 | verified |
 | 51 | [Daily entries from Journey](daily-entries-from-journey-57fd0d4e/README.md) | 2 | verified |
 | 52 | [Listening to a voice recording from Entry detail](listening-to-a-voice-recording-from-entry-detail-051a4c2e/README.md) | 2 | verified |
 | 53 | [Filtering entries from Journey](filtering-entries-from-journey-26be6dd7/README.md) | 4 | verified |
