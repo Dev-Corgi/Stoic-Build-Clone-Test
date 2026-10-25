@@ -1,0 +1,18 @@
+{
+  "index": 19,
+  "listTitle": "Share a prompt from Inspirations",
+  "detailTitle": "Share a prompt on stoic.",
+  "url": "https://mobbin.com/flows/5bc98113-cca8-4672-b958-70882f6bd939?tab=screens",
+  "expectedId": "5bc98113-cca8-4672-b958-70882f6bd939",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\share-a-prompt-from-inspirations-5bc98113",
+  "alts": [
+    "Share a prompt on stoic. (ios) screen 1",
+    "Share a prompt on stoic. (ios) screen 2",
+    "Share a prompt on stoic. (ios) screen 3",
+    "Share a prompt on stoic. (ios) screen 4"
+  ]
+}

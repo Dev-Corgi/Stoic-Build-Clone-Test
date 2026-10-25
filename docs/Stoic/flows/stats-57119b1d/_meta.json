@@ -1,0 +1,18 @@
+{
+  "index": 58,
+  "listTitle": "Stats",
+  "detailTitle": "Stats on stoic.",
+  "url": "https://mobbin.com/flows/57119b1d-79de-4199-b288-cf49b237d13c?tab=screens",
+  "expectedId": "57119b1d-79de-4199-b288-cf49b237d13c",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\stats-57119b1d",
+  "alts": [
+    "Stats on stoic. (ios) screen 1",
+    "Stats on stoic. (ios) screen 2",
+    "Stats on stoic. (ios) screen 3",
+    "Stats on stoic. (ios) screen 4"
+  ]
+}

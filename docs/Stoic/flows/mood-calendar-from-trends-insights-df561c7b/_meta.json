@@ -1,0 +1,16 @@
+{
+  "index": 44,
+  "listTitle": "Mood calendar from Trends & insights",
+  "detailTitle": "Mood calendar on stoic.",
+  "url": "https://mobbin.com/flows/df561c7b-5192-4325-b6a2-ed57e04ffb86?tab=screens",
+  "expectedId": "df561c7b-5192-4325-b6a2-ed57e04ffb86",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\mood-calendar-from-trends-insights-df561c7b",
+  "alts": [
+    "Mood calendar on stoic. (ios) screen 1",
+    "Mood calendar on stoic. (ios) screen 2"
+  ]
+}

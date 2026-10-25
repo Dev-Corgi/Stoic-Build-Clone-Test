@@ -1,0 +1,16 @@
+{
+  "index": 21,
+  "listTitle": "Favoriting a prompt from Inspirations",
+  "detailTitle": "Favoriting a prompt on stoic.",
+  "url": "https://mobbin.com/flows/e63a6af9-23c6-41c5-9b98-38f03586326e?tab=screens",
+  "expectedId": "e63a6af9-23c6-41c5-9b98-38f03586326e",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\favoriting-a-prompt-from-inspirations-e63a6af9",
+  "alts": [
+    "Favoriting a prompt on stoic. (ios) screen 1",
+    "Favoriting a prompt on stoic. (ios) screen 2"
+  ]
+}

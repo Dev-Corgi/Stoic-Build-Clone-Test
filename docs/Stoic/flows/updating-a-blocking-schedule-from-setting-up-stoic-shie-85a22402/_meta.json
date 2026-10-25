@@ -1,0 +1,21 @@
+{
+  "index": 62,
+  "listTitle": "Updating a blocking schedule from Setting up stoic shield",
+  "detailTitle": "Updating a blocking schedule on stoic.",
+  "url": "https://mobbin.com/flows/85a22402-a64f-4042-8ecd-13bac9c2aba9?tab=screens",
+  "expectedId": "85a22402-a64f-4042-8ecd-13bac9c2aba9",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 7,
+  "savedImageCount": 7,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\updating-a-blocking-schedule-from-setting-up-stoic-shie-85a22402",
+  "alts": [
+    "Updating a blocking schedule on stoic. (ios) screen 1",
+    "Updating a blocking schedule on stoic. (ios) screen 2",
+    "Updating a blocking schedule on stoic. (ios) screen 3",
+    "Updating a blocking schedule on stoic. (ios) screen 4",
+    "Updating a blocking schedule on stoic. (ios) screen 5",
+    "Updating a blocking schedule on stoic. (ios) screen 6",
+    "Updating a blocking schedule on stoic. (ios) screen 7"
+  ]
+}

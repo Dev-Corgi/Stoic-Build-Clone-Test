@@ -1,0 +1,27 @@
+{
+  "index": 1,
+  "listTitle": "Onboarding",
+  "detailTitle": "Onboarding on stoic.",
+  "url": "https://mobbin.com/flows/0c54c507-3659-4b57-a758-adaa44ec3aeb?tab=screens",
+  "expectedId": "0c54c507-3659-4b57-a758-adaa44ec3aeb",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 13,
+  "savedImageCount": 13,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\onboarding-0c54c507",
+  "alts": [
+    "Onboarding on stoic. (ios) screen 1",
+    "Onboarding on stoic. (ios) screen 2",
+    "Onboarding on stoic. (ios) screen 3",
+    "Onboarding on stoic. (ios) screen 4",
+    "Onboarding on stoic. (ios) screen 5",
+    "Onboarding on stoic. (ios) screen 6",
+    "Onboarding on stoic. (ios) screen 7",
+    "Onboarding on stoic. (ios) screen 8",
+    "Onboarding on stoic. (ios) screen 9",
+    "Onboarding on stoic. (ios) screen 10",
+    "Onboarding on stoic. (ios) screen 11",
+    "Onboarding on stoic. (ios) screen 12",
+    "Onboarding on stoic. (ios) screen 13"
+  ]
+}

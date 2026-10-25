@@ -1,0 +1,18 @@
+{
+  "index": 6,
+  "listTitle": "Drawing a sketch from Recording a voice note",
+  "detailTitle": "Drawing a sketch on stoic.",
+  "url": "https://mobbin.com/flows/e6ca1bb5-350b-49b6-9074-e35ddd18f046?tab=screens",
+  "expectedId": "e6ca1bb5-350b-49b6-9074-e35ddd18f046",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\drawing-a-sketch-from-recording-a-voice-note-e6ca1bb5",
+  "alts": [
+    "Drawing a sketch on stoic. (ios) screen 1",
+    "Drawing a sketch on stoic. (ios) screen 2",
+    "Drawing a sketch on stoic. (ios) screen 3",
+    "Drawing a sketch on stoic. (ios) screen 4"
+  ]
+}

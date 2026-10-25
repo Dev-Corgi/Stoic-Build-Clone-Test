@@ -1,0 +1,18 @@
+{
+  "index": 23,
+  "listTitle": "Logging a journal entry",
+  "detailTitle": "Logging a journal entry on stoic.",
+  "url": "https://mobbin.com/flows/e2e1f9b5-b736-4442-a1c4-a5dabc5ac03b?tab=screens",
+  "expectedId": "e2e1f9b5-b736-4442-a1c4-a5dabc5ac03b",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\logging-a-journal-entry-e2e1f9b5",
+  "alts": [
+    "Logging a journal entry on stoic. (ios) screen 1",
+    "Logging a journal entry on stoic. (ios) screen 2",
+    "Logging a journal entry on stoic. (ios) screen 3",
+    "Logging a journal entry on stoic. (ios) screen 4"
+  ]
+}

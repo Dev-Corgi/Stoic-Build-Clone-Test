@@ -1,0 +1,16 @@
+{
+  "index": 25,
+  "listTitle": "Giving a feedback from Logging a mood check-in",
+  "detailTitle": "Giving a feedback on stoic.",
+  "url": "https://mobbin.com/flows/f0178b77-ba1e-46c8-812c-441fc08aa72f?tab=screens",
+  "expectedId": "f0178b77-ba1e-46c8-812c-441fc08aa72f",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\giving-a-feedback-from-logging-a-mood-check-in-f0178b77",
+  "alts": [
+    "Giving a feedback on stoic. (ios) screen 1",
+    "Giving a feedback on stoic. (ios) screen 2"
+  ]
+}

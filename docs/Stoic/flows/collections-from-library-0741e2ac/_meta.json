@@ -1,0 +1,16 @@
+{
+  "index": 29,
+  "listTitle": "Collections from Library",
+  "detailTitle": "Collections on stoic.",
+  "url": "https://mobbin.com/flows/0741e2ac-c263-4a00-981a-b2c7ce873fb8?tab=screens",
+  "expectedId": "0741e2ac-c263-4a00-981a-b2c7ce873fb8",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\collections-from-library-0741e2ac",
+  "alts": [
+    "Collections on stoic. (ios) screen 1",
+    "Collections on stoic. (ios) screen 2"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "index": 15,
+  "listTitle": "Adding a focus from Today",
+  "detailTitle": "Adding a focus on stoic.",
+  "url": "https://mobbin.com/flows/a9a2260b-e7b7-43d8-9233-c95ee20d5f09?tab=screens",
+  "expectedId": "a9a2260b-e7b7-43d8-9233-c95ee20d5f09",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 8,
+  "savedImageCount": 8,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\adding-a-focus-from-today-a9a2260b",
+  "alts": [
+    "Adding a focus on stoic. (ios) screen 1",
+    "Adding a focus on stoic. (ios) screen 2",
+    "Adding a focus on stoic. (ios) screen 3",
+    "Adding a focus on stoic. (ios) screen 4",
+    "Adding a focus on stoic. (ios) screen 5",
+    "Adding a focus on stoic. (ios) screen 6",
+    "Adding a focus on stoic. (ios) screen 7",
+    "Adding a focus on stoic. (ios) screen 8"
+  ]
+}

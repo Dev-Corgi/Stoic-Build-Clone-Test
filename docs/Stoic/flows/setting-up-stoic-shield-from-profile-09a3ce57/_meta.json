@@ -1,0 +1,28 @@
+{
+  "index": 61,
+  "listTitle": "Setting up stoic shield from Profile",
+  "detailTitle": "Setting up stoic shield on stoic.",
+  "url": "https://mobbin.com/flows/09a3ce57-5fd1-4bda-aa81-89e354652925?tab=screens",
+  "expectedId": "09a3ce57-5fd1-4bda-aa81-89e354652925",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 14,
+  "savedImageCount": 14,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\setting-up-stoic-shield-from-profile-09a3ce57",
+  "alts": [
+    "Setting up stoic shield on stoic. (ios) screen 1",
+    "Setting up stoic shield on stoic. (ios) screen 2",
+    "Setting up stoic shield on stoic. (ios) screen 3",
+    "Setting up stoic shield on stoic. (ios) screen 4",
+    "Setting up stoic shield on stoic. (ios) screen 5",
+    "Setting up stoic shield on stoic. (ios) screen 6",
+    "Setting up stoic shield on stoic. (ios) screen 7",
+    "Setting up stoic shield on stoic. (ios) screen 8",
+    "Setting up stoic shield on stoic. (ios) screen 9",
+    "Setting up stoic shield on stoic. (ios) screen 10",
+    "Setting up stoic shield on stoic. (ios) screen 11",
+    "Setting up stoic shield on stoic. (ios) screen 12",
+    "Setting up stoic shield on stoic. (ios) screen 13",
+    "Setting up stoic shield on stoic. (ios) screen 14"
+  ]
+}

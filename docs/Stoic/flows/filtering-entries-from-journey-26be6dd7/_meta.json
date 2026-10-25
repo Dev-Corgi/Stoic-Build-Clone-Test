@@ -1,0 +1,18 @@
+{
+  "index": 53,
+  "listTitle": "Filtering entries from Journey",
+  "detailTitle": "Filtering entries on stoic.",
+  "url": "https://mobbin.com/flows/26be6dd7-9c58-4c79-ae6a-a94e00b2e08c?tab=screens",
+  "expectedId": "26be6dd7-9c58-4c79-ae6a-a94e00b2e08c",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\filtering-entries-from-journey-26be6dd7",
+  "alts": [
+    "Filtering entries on stoic. (ios) screen 1",
+    "Filtering entries on stoic. (ios) screen 2",
+    "Filtering entries on stoic. (ios) screen 3",
+    "Filtering entries on stoic. (ios) screen 4"
+  ]
+}

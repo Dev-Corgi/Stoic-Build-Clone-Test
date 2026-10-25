@@ -1,0 +1,22 @@
+{
+  "index": 59,
+  "listTitle": "Switching to dark mode from Profile",
+  "detailTitle": "Switching to dark mode on stoic.",
+  "url": "https://mobbin.com/flows/941037fb-0eab-46ce-a38b-1982117f5571?tab=screens",
+  "expectedId": "941037fb-0eab-46ce-a38b-1982117f5571",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 8,
+  "savedImageCount": 8,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\switching-to-dark-mode-from-profile-941037fb",
+  "alts": [
+    "Switching to dark mode on stoic. (ios) screen 1",
+    "Switching to dark mode on stoic. (ios) screen 2",
+    "Switching to dark mode on stoic. (ios) screen 3",
+    "Switching to dark mode on stoic. (ios) screen 4",
+    "Switching to dark mode on stoic. (ios) screen 5",
+    "Switching to dark mode on stoic. (ios) screen 6",
+    "Switching to dark mode on stoic. (ios) screen 7",
+    "Switching to dark mode on stoic. (ios) screen 8"
+  ]
+}

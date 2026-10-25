@@ -1,0 +1,16 @@
+{
+  "index": 12,
+  "listTitle": "Quote journal from Today",
+  "detailTitle": "Quote journal on stoic.",
+  "url": "https://mobbin.com/flows/2fce81ba-d33e-4813-b2c4-d3c431abd018?tab=screens",
+  "expectedId": "2fce81ba-d33e-4813-b2c4-d3c431abd018",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\quote-journal-from-today-2fce81ba",
+  "alts": [
+    "Quote journal on stoic. (ios) screen 1",
+    "Quote journal on stoic. (ios) screen 2"
+  ]
+}

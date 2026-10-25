@@ -1,0 +1,18 @@
+{
+  "index": 14,
+  "listTitle": "Hiding a focus from Today",
+  "detailTitle": "Hiding a focus on stoic.",
+  "url": "https://mobbin.com/flows/ce605c5c-7153-4fff-b56b-8024c8909198?tab=screens",
+  "expectedId": "ce605c5c-7153-4fff-b56b-8024c8909198",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\hiding-a-focus-from-today-ce605c5c",
+  "alts": [
+    "Hiding a focus on stoic. (ios) screen 1",
+    "Hiding a focus on stoic. (ios) screen 2",
+    "Hiding a focus on stoic. (ios) screen 3",
+    "Hiding a focus on stoic. (ios) screen 4"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "index": 9,
+  "listTitle": "Logging a daily reflection (evening) from Today",
+  "detailTitle": "Logging a daily reflection (evening) on stoic.",
+  "url": "https://mobbin.com/flows/c301d081-140b-44a9-983a-9b891020f3c0?tab=screens",
+  "expectedId": "c301d081-140b-44a9-983a-9b891020f3c0",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 12,
+  "savedImageCount": 12,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\logging-a-daily-reflection-evening-from-today-c301d081",
+  "alts": [
+    "Logging a daily reflection (evening) on stoic. (ios) screen 1",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 2",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 3",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 4",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 5",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 6",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 7",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 8",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 9",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 10",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 11",
+    "Logging a daily reflection (evening) on stoic. (ios) screen 12"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "index": 35,
+  "listTitle": "Setting up exercise preferences  from Completing an exercise (breathing)",
+  "detailTitle": "Setting up exercise preferences  on stoic.",
+  "url": "https://mobbin.com/flows/fc324f7f-bf3c-48a2-9c3e-b41d8639e11e?tab=screens",
+  "expectedId": "fc324f7f-bf3c-48a2-9c3e-b41d8639e11e",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 9,
+  "savedImageCount": 9,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\setting-up-exercise-preferences-from-completing-an-exer-fc324f7f",
+  "alts": [
+    "Setting up exercise preferences  on stoic. (ios) screen 1",
+    "Setting up exercise preferences  on stoic. (ios) screen 2",
+    "Setting up exercise preferences  on stoic. (ios) screen 3",
+    "Setting up exercise preferences  on stoic. (ios) screen 4",
+    "Setting up exercise preferences  on stoic. (ios) screen 5",
+    "Setting up exercise preferences  on stoic. (ios) screen 6",
+    "Setting up exercise preferences  on stoic. (ios) screen 7",
+    "Setting up exercise preferences  on stoic. (ios) screen 8",
+    "Setting up exercise preferences  on stoic. (ios) screen 9"
+  ]
+}

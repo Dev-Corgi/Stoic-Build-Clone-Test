@@ -1,0 +1,19 @@
+{
+  "index": 54,
+  "listTitle": "Badges",
+  "detailTitle": "Badges on stoic.",
+  "url": "https://mobbin.com/flows/6b59a91e-58e4-406d-8e7f-35cc5b6cb6cd?tab=screens",
+  "expectedId": "6b59a91e-58e4-406d-8e7f-35cc5b6cb6cd",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 5,
+  "savedImageCount": 5,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\badges-6b59a91e",
+  "alts": [
+    "Badges on stoic. (ios) screen 1",
+    "Badges on stoic. (ios) screen 2",
+    "Badges on stoic. (ios) screen 3",
+    "Badges on stoic. (ios) screen 4",
+    "Badges on stoic. (ios) screen 5"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 51,
+  "listTitle": "Daily entries from Journey",
+  "detailTitle": "Daily entries on stoic.",
+  "url": "https://mobbin.com/flows/57fd0d4e-72ed-4dec-9d48-5cd80cd16dab?tab=screens",
+  "expectedId": "57fd0d4e-72ed-4dec-9d48-5cd80cd16dab",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\daily-entries-from-journey-57fd0d4e",
+  "alts": [
+    "Daily entries on stoic. (ios) screen 1",
+    "Daily entries on stoic. (ios) screen 2"
+  ]
+}

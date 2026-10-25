@@ -1,0 +1,16 @@
+{
+  "index": 56,
+  "listTitle": "All badges from Badges",
+  "detailTitle": "All badges on stoic.",
+  "url": "https://mobbin.com/flows/00766360-0970-49eb-9359-b51185401078?tab=screens",
+  "expectedId": "00766360-0970-49eb-9359-b51185401078",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\all-badges-from-badges-00766360",
+  "alts": [
+    "All badges on stoic. (ios) screen 1",
+    "All badges on stoic. (ios) screen 2"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "index": 7,
+  "listTitle": "Recording a voice note from Logging a daily reflection (morning)",
+  "detailTitle": "Recording a voice note on stoic.",
+  "url": "https://mobbin.com/flows/42c5dd12-ff9d-4679-b61f-b037476ea54c?tab=screens",
+  "expectedId": "42c5dd12-ff9d-4679-b61f-b037476ea54c",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 6,
+  "savedImageCount": 6,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\recording-a-voice-note-from-logging-a-daily-reflection--42c5dd12",
+  "alts": [
+    "Recording a voice note on stoic. (ios) screen 1",
+    "Recording a voice note on stoic. (ios) screen 2",
+    "Recording a voice note on stoic. (ios) screen 3",
+    "Recording a voice note on stoic. (ios) screen 4",
+    "Recording a voice note on stoic. (ios) screen 5",
+    "Recording a voice note on stoic. (ios) screen 6"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "index": 46,
+  "listTitle": "Switching data views from Trends & insights",
+  "detailTitle": "Switching data views on stoic.",
+  "url": "https://mobbin.com/flows/a6b44744-1289-4c69-9b53-871f002940ac?tab=screens",
+  "expectedId": "a6b44744-1289-4c69-9b53-871f002940ac",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 3,
+  "savedImageCount": 3,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\switching-data-views-from-trends-insights-a6b44744",
+  "alts": [
+    "Switching data views on stoic. (ios) screen 1",
+    "Switching data views on stoic. (ios) screen 2",
+    "Switching data views on stoic. (ios) screen 3"
+  ]
+}

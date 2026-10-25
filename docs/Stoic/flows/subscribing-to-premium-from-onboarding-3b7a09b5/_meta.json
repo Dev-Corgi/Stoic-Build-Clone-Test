@@ -1,0 +1,27 @@
+{
+  "index": 2,
+  "listTitle": "Subscribing to premium from Onboarding",
+  "detailTitle": "Subscribing to premium on stoic.",
+  "url": "https://mobbin.com/flows/3b7a09b5-ff45-4211-934c-9d92c60be08a?tab=screens",
+  "expectedId": "3b7a09b5-ff45-4211-934c-9d92c60be08a",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 13,
+  "savedImageCount": 13,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\subscribing-to-premium-from-onboarding-3b7a09b5",
+  "alts": [
+    "Subscribing to premium on stoic. (ios) screen 1",
+    "Subscribing to premium on stoic. (ios) screen 2",
+    "Subscribing to premium on stoic. (ios) screen 3",
+    "Subscribing to premium on stoic. (ios) screen 4",
+    "Subscribing to premium on stoic. (ios) screen 5",
+    "Subscribing to premium on stoic. (ios) screen 6",
+    "Subscribing to premium on stoic. (ios) screen 7",
+    "Subscribing to premium on stoic. (ios) screen 8",
+    "Subscribing to premium on stoic. (ios) screen 9",
+    "Subscribing to premium on stoic. (ios) screen 10",
+    "Subscribing to premium on stoic. (ios) screen 11",
+    "Subscribing to premium on stoic. (ios) screen 12",
+    "Subscribing to premium on stoic. (ios) screen 13"
+  ]
+}

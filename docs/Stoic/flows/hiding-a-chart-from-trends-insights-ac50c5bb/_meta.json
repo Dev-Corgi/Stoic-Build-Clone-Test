@@ -1,0 +1,17 @@
+{
+  "index": 45,
+  "listTitle": "Hiding a chart from Trends & insights",
+  "detailTitle": "Hiding a chart on stoic.",
+  "url": "https://mobbin.com/flows/ac50c5bb-63ef-49b9-9f3f-22bc9797bdba?tab=screens",
+  "expectedId": "ac50c5bb-63ef-49b9-9f3f-22bc9797bdba",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 3,
+  "savedImageCount": 3,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\hiding-a-chart-from-trends-insights-ac50c5bb",
+  "alts": [
+    "Hiding a chart on stoic. (ios) screen 1",
+    "Hiding a chart on stoic. (ios) screen 2",
+    "Hiding a chart on stoic. (ios) screen 3"
+  ]
+}

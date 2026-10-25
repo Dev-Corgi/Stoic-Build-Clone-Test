@@ -1,0 +1,17 @@
+{
+  "index": 49,
+  "listTitle": "Removing an excluded word from Excluding words from words cloud",
+  "detailTitle": "Removing an excluded word on stoic.",
+  "url": "https://mobbin.com/flows/576943f3-20e4-4c10-a7a7-fdf166ad01c9?tab=screens",
+  "expectedId": "576943f3-20e4-4c10-a7a7-fdf166ad01c9",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 3,
+  "savedImageCount": 3,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\removing-an-excluded-word-from-excluding-words-from-wor-576943f3",
+  "alts": [
+    "Removing an excluded word on stoic. (ios) screen 1",
+    "Removing an excluded word on stoic. (ios) screen 2",
+    "Removing an excluded word on stoic. (ios) screen 3"
+  ]
+}

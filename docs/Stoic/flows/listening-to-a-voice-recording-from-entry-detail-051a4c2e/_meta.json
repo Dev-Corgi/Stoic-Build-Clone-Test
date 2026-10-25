@@ -1,0 +1,16 @@
+{
+  "index": 52,
+  "listTitle": "Listening to a voice recording from Entry detail",
+  "detailTitle": "Listening to a voice recording on stoic.",
+  "url": "https://mobbin.com/flows/051a4c2e-7372-45b6-afac-c44a35d64b14?tab=screens",
+  "expectedId": "051a4c2e-7372-45b6-afac-c44a35d64b14",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\listening-to-a-voice-recording-from-entry-detail-051a4c2e",
+  "alts": [
+    "Listening to a voice recording on stoic. (ios) screen 1",
+    "Listening to a voice recording on stoic. (ios) screen 2"
+  ]
+}

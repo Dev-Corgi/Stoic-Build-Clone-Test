@@ -1,0 +1,16 @@
+{
+  "index": 63,
+  "listTitle": "Privacy policy from Profile",
+  "detailTitle": "Privacy policy on stoic.",
+  "url": "https://mobbin.com/flows/28ad29b5-f55f-4439-88fb-551189e690b3?tab=screens",
+  "expectedId": "28ad29b5-f55f-4439-88fb-551189e690b3",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\privacy-policy-from-profile-28ad29b5",
+  "alts": [
+    "Privacy policy on stoic. (ios) screen 1",
+    "Privacy policy on stoic. (ios) screen 2"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "index": 18,
+  "listTitle": "Tomorrow from Today",
+  "detailTitle": "Tomorrow on stoic.",
+  "url": "https://mobbin.com/flows/ee3b14c9-237b-4c21-b67a-c6850e0ac077?tab=screens",
+  "expectedId": "ee3b14c9-237b-4c21-b67a-c6850e0ac077",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 2,
+  "savedImageCount": 2,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\tomorrow-from-today-ee3b14c9",
+  "alts": [
+    "Tomorrow on stoic. (ios) screen 1",
+    "Tomorrow on stoic. (ios) screen 2"
+  ]
+}

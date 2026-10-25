@@ -1,0 +1,22 @@
+{
+  "index": 16,
+  "listTitle": "Adding a metric to daily reflections from Today",
+  "detailTitle": "Adding a metric to daily reflections on stoic.",
+  "url": "https://mobbin.com/flows/6d713043-b5ba-4c90-85f7-b1a5803af97b?tab=screens",
+  "expectedId": "6d713043-b5ba-4c90-85f7-b1a5803af97b",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 8,
+  "savedImageCount": 8,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\adding-a-metric-to-daily-reflections-from-today-6d713043",
+  "alts": [
+    "Adding a metric to daily reflections on stoic. (ios) screen 1",
+    "Adding a metric to daily reflections on stoic. (ios) screen 2",
+    "Adding a metric to daily reflections on stoic. (ios) screen 3",
+    "Adding a metric to daily reflections on stoic. (ios) screen 4",
+    "Adding a metric to daily reflections on stoic. (ios) screen 5",
+    "Adding a metric to daily reflections on stoic. (ios) screen 6",
+    "Adding a metric to daily reflections on stoic. (ios) screen 7",
+    "Adding a metric to daily reflections on stoic. (ios) screen 8"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "index": 10,
+  "listTitle": "Asking AI for insights from Logging a daily reflection (morning)",
+  "detailTitle": "Asking AI for insights on stoic.",
+  "url": "https://mobbin.com/flows/a84f10c7-df4b-4efa-add8-7d7f8438196d?tab=screens",
+  "expectedId": "a84f10c7-df4b-4efa-add8-7d7f8438196d",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 5,
+  "savedImageCount": 5,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\asking-ai-for-insights-from-logging-a-daily-reflection--a84f10c7",
+  "alts": [
+    "Asking AI for insights on stoic. (ios) screen 1",
+    "Asking AI for insights on stoic. (ios) screen 2",
+    "Asking AI for insights on stoic. (ios) screen 3",
+    "Asking AI for insights on stoic. (ios) screen 4",
+    "Asking AI for insights on stoic. (ios) screen 5"
+  ]
+}

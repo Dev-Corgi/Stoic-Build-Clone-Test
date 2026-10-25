@@ -1,0 +1,21 @@
+{
+  "index": 33,
+  "listTitle": "Completing an exercise (breathing) from Breathe",
+  "detailTitle": "Completing an exercise (breathing) on stoic.",
+  "url": "https://mobbin.com/flows/9ca89b41-e6bd-4978-a9f0-02360e3f735c?tab=screens",
+  "expectedId": "9ca89b41-e6bd-4978-a9f0-02360e3f735c",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 7,
+  "savedImageCount": 7,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\completing-an-exercise-breathing-from-breathe-9ca89b41",
+  "alts": [
+    "Completing an exercise (breathing) on stoic. (ios) screen 1",
+    "Completing an exercise (breathing) on stoic. (ios) screen 2",
+    "Completing an exercise (breathing) on stoic. (ios) screen 3",
+    "Completing an exercise (breathing) on stoic. (ios) screen 4",
+    "Completing an exercise (breathing) on stoic. (ios) screen 5",
+    "Completing an exercise (breathing) on stoic. (ios) screen 6",
+    "Completing an exercise (breathing) on stoic. (ios) screen 7"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "index": 32,
+  "listTitle": "Weekly themes from Library",
+  "detailTitle": "Weekly themes on stoic.",
+  "url": "https://mobbin.com/flows/de495541-d764-4118-a7b8-ab6d7a308590?tab=screens",
+  "expectedId": "de495541-d764-4118-a7b8-ab6d7a308590",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 5,
+  "savedImageCount": 5,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\weekly-themes-from-library-de495541",
+  "alts": [
+    "Weekly themes on stoic. (ios) screen 1",
+    "Weekly themes on stoic. (ios) screen 2",
+    "Weekly themes on stoic. (ios) screen 3",
+    "Weekly themes on stoic. (ios) screen 4",
+    "Weekly themes on stoic. (ios) screen 5"
+  ]
+}

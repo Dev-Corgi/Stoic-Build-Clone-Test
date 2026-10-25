@@ -1,0 +1,17 @@
+{
+  "index": 40,
+  "listTitle": "Pausing an exercise from Completing an exercise (meditation)",
+  "detailTitle": "Pausing an exercise on stoic.",
+  "url": "https://mobbin.com/flows/43d32e65-4b97-4019-bc56-7238f502f9b1?tab=screens",
+  "expectedId": "43d32e65-4b97-4019-bc56-7238f502f9b1",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 3,
+  "savedImageCount": 3,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\pausing-an-exercise-from-completing-an-exercise-meditat-43d32e65",
+  "alts": [
+    "Pausing an exercise on stoic. (ios) screen 1",
+    "Pausing an exercise on stoic. (ios) screen 2",
+    "Pausing an exercise on stoic. (ios) screen 3"
+  ]
+}

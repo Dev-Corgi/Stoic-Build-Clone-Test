@@ -1,0 +1,18 @@
+{
+  "index": 22,
+  "listTitle": "Choosing a prompt category from Inspirations",
+  "detailTitle": "Choosing a prompt category on stoic.",
+  "url": "https://mobbin.com/flows/d3701069-53c3-46bb-a63e-e22f7152ee34?tab=screens",
+  "expectedId": "d3701069-53c3-46bb-a63e-e22f7152ee34",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\choosing-a-prompt-category-from-inspirations-d3701069",
+  "alts": [
+    "Choosing a prompt category on stoic. (ios) screen 1",
+    "Choosing a prompt category on stoic. (ios) screen 2",
+    "Choosing a prompt category on stoic. (ios) screen 3",
+    "Choosing a prompt category on stoic. (ios) screen 4"
+  ]
+}

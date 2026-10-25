@@ -1,0 +1,18 @@
+{
+  "index": 11,
+  "listTitle": "Personalizing page content from Today",
+  "detailTitle": "Personalizing page content on stoic.",
+  "url": "https://mobbin.com/flows/1db66219-d619-407d-a0a2-99c18bccafa7?tab=screens",
+  "expectedId": "1db66219-d619-407d-a0a2-99c18bccafa7",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\personalizing-page-content-from-today-1db66219",
+  "alts": [
+    "Personalizing page content on stoic. (ios) screen 1",
+    "Personalizing page content on stoic. (ios) screen 2",
+    "Personalizing page content on stoic. (ios) screen 3",
+    "Personalizing page content on stoic. (ios) screen 4"
+  ]
+}

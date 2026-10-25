@@ -1,0 +1,20 @@
+{
+  "index": 3,
+  "listTitle": "Today",
+  "detailTitle": "Today on stoic.",
+  "url": "https://mobbin.com/flows/b72044fc-f724-4356-9805-2a17626668bd?tab=screens",
+  "expectedId": "b72044fc-f724-4356-9805-2a17626668bd",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 6,
+  "savedImageCount": 6,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\today-b72044fc",
+  "alts": [
+    "Today on stoic. (ios) screen 1",
+    "Today on stoic. (ios) screen 2",
+    "Today on stoic. (ios) screen 3",
+    "Today on stoic. (ios) screen 4",
+    "Today on stoic. (ios) screen 5",
+    "Today on stoic. (ios) screen 6"
+  ]
+}

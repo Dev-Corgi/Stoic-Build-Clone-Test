@@ -1,0 +1,19 @@
+{
+  "index": 60,
+  "listTitle": "Profile",
+  "detailTitle": "Profile on stoic.",
+  "url": "https://mobbin.com/flows/eee28256-463d-467a-85da-a28fa4a20ddd?tab=screens",
+  "expectedId": "eee28256-463d-467a-85da-a28fa4a20ddd",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 5,
+  "savedImageCount": 5,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\profile-eee28256",
+  "alts": [
+    "Profile on stoic. (ios) screen 1",
+    "Profile on stoic. (ios) screen 2",
+    "Profile on stoic. (ios) screen 3",
+    "Profile on stoic. (ios) screen 4",
+    "Profile on stoic. (ios) screen 5"
+  ]
+}

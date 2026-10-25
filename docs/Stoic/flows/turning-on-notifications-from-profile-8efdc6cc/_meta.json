@@ -1,0 +1,18 @@
+{
+  "index": 64,
+  "listTitle": "Turning on notifications from Profile",
+  "detailTitle": "Turning on notifications on stoic.",
+  "url": "https://mobbin.com/flows/8efdc6cc-bf7c-43a4-9783-10711f9eedd3?tab=screens",
+  "expectedId": "8efdc6cc-bf7c-43a4-9783-10711f9eedd3",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\turning-on-notifications-from-profile-8efdc6cc",
+  "alts": [
+    "Turning on notifications on stoic. (ios) screen 1",
+    "Turning on notifications on stoic. (ios) screen 2",
+    "Turning on notifications on stoic. (ios) screen 3",
+    "Turning on notifications on stoic. (ios) screen 4"
+  ]
+}

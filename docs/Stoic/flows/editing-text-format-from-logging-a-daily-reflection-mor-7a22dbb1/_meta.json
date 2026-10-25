@@ -1,0 +1,18 @@
+{
+  "index": 8,
+  "listTitle": "Editing text format from Logging a daily reflection (morning)",
+  "detailTitle": "Editing text format on stoic.",
+  "url": "https://mobbin.com/flows/7a22dbb1-23c6-4b84-ad6d-e2ea2ccb334d?tab=screens",
+  "expectedId": "7a22dbb1-23c6-4b84-ad6d-e2ea2ccb334d",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\editing-text-format-from-logging-a-daily-reflection-mor-7a22dbb1",
+  "alts": [
+    "Editing text format on stoic. (ios) screen 1",
+    "Editing text format on stoic. (ios) screen 2",
+    "Editing text format on stoic. (ios) screen 3",
+    "Editing text format on stoic. (ios) screen 4"
+  ]
+}

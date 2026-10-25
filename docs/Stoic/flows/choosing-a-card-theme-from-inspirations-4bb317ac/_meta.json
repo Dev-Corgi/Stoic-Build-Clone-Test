@@ -1,0 +1,17 @@
+{
+  "index": 20,
+  "listTitle": "Choosing a card theme from Inspirations",
+  "detailTitle": "Choosing a card theme on stoic.",
+  "url": "https://mobbin.com/flows/4bb317ac-987e-4486-8b50-ed2e04ad305a?tab=screens",
+  "expectedId": "4bb317ac-987e-4486-8b50-ed2e04ad305a",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 3,
+  "savedImageCount": 3,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\choosing-a-card-theme-from-inspirations-4bb317ac",
+  "alts": [
+    "Choosing a card theme on stoic. (ios) screen 1",
+    "Choosing a card theme on stoic. (ios) screen 2",
+    "Choosing a card theme on stoic. (ios) screen 3"
+  ]
+}

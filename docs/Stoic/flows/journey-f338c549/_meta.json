@@ -1,0 +1,20 @@
+{
+  "index": 43,
+  "listTitle": "Journey",
+  "detailTitle": "Journey on stoic.",
+  "url": "https://mobbin.com/flows/f338c549-c18a-45db-81f1-12819c1eadfa?tab=screens",
+  "expectedId": "f338c549-c18a-45db-81f1-12819c1eadfa",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 6,
+  "savedImageCount": 6,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\journey-f338c549",
+  "alts": [
+    "Journey on stoic. (ios) screen 1",
+    "Journey on stoic. (ios) screen 2",
+    "Journey on stoic. (ios) screen 3",
+    "Journey on stoic. (ios) screen 4",
+    "Journey on stoic. (ios) screen 5",
+    "Journey on stoic. (ios) screen 6"
+  ]
+}

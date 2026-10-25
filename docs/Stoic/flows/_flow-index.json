@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Onboarding",
+    "href": "/flows/0c54c507-3659-4b57-a758-adaa44ec3aeb"
+  },
+  {
+    "title": "Subscribing to premium from Onboarding",
+    "href": "/flows/3b7a09b5-ff45-4211-934c-9d92c60be08a"
+  },
+  {
+    "title": "Today",
+    "href": "/flows/b72044fc-f724-4356-9805-2a17626668bd"
+  },
+  {
+    "title": "Premium + AI features from Subscribing to premium",
+    "href": "/flows/655eb98d-12b4-43de-b6b2-5cdcb33edd93"
+  },
+  {
+    "title": "Logging a daily reflection (morning) from Today",
+    "href": "/flows/3c1b50df-db4c-4db4-ab62-8c334a0adbd6"
+  },
+  {
+    "title": "Drawing a sketch from Recording a voice note",
+    "href": "/flows/e6ca1bb5-350b-49b6-9074-e35ddd18f046"
+  },
+  {
+    "title": "Recording a voice note from Logging a daily reflection (morning)",
+    "href": "/flows/42c5dd12-ff9d-4679-b61f-b037476ea54c"
+  },
+  {
+    "title": "Editing text format from Logging a daily reflection (morning)",
+    "href": "/flows/7a22dbb1-23c6-4b84-ad6d-e2ea2ccb334d"
+  },
+  {
+    "title": "Logging a daily reflection (evening) from Today",
+    "href": "/flows/c301d081-140b-44a9-983a-9b891020f3c0"
+  },
+  {
+    "title": "Asking AI for insights from Logging a daily reflection (morning)",
+    "href": "/flows/a84f10c7-df4b-4efa-add8-7d7f8438196d"
+  },
+  {
+    "title": "Personalizing page content from Today",
+    "href": "/flows/1db66219-d619-407d-a0a2-99c18bccafa7"
+  },
+  {
+    "title": "Quote journal from Today",
+    "href": "/flows/2fce81ba-d33e-4813-b2c4-d3c431abd018"
+  },
+  {
+    "title": "Adding prompts to daily reflections from Today",
+    "href": "/flows/982d4e6c-d95d-4a70-84a3-fb5ad1902041"
+  },
+  {
+    "title": "Hiding a focus from Today",
+    "href": "/flows/ce605c5c-7153-4fff-b56b-8024c8909198"
+  },
+  {
+    "title": "Adding a focus from Today",
+    "href": "/flows/a9a2260b-e7b7-43d8-9233-c95ee20d5f09"
+  },
+  {
+    "title": "Adding a metric to daily reflections from Today",
+    "href": "/flows/6d713043-b5ba-4c90-85f7-b1a5803af97b"
+  },
+  {
+    "title": "Inspirations",
+    "href": "/flows/9edc8063-68fb-493d-9093-9ec5cff81553"
+  },
+  {
+    "title": "Tomorrow from Today",
+    "href": "/flows/ee3b14c9-237b-4c21-b67a-c6850e0ac077"
+  },
+  {
+    "title": "Share a prompt from Inspirations",
+    "href": "/flows/5bc98113-cca8-4672-b958-70882f6bd939"
+  },
+  {
+    "title": "Choosing a card theme from Inspirations",
+    "href": "/flows/4bb317ac-987e-4486-8b50-ed2e04ad305a"
+  },
+  {
+    "title": "Favoriting a prompt from Inspirations",
+    "href": "/flows/e63a6af9-23c6-41c5-9b98-38f03586326e"
+  },
+  {
+    "title": "Choosing a prompt category from Inspirations",
+    "href": "/flows/d3701069-53c3-46bb-a63e-e22f7152ee34"
+  },
+  {
+    "title": "Logging a journal entry",
+    "href": "/flows/e2e1f9b5-b736-4442-a1c4-a5dabc5ac03b"
+  },
+  {
+    "title": "Favoriting exercises",
+    "href": "/flows/1ee2f319-6700-49f0-b0dd-a16a3c932a71"
+  },
+  {
+    "title": "Giving a feedback from Logging a mood check-in",
+    "href": "/flows/f0178b77-ba1e-46c8-812c-441fc08aa72f"
+  },
+  {
+    "title": "Logging a mood check-in",
+    "href": "/flows/76793f73-e2a2-4d7c-a972-b8fcb498ddb1"
+  },
+  {
+    "title": "Library",
+    "href": "/flows/c5ea06fa-93c5-4b43-ba3f-a5c03b79e87c"
+  },
+  {
+    "title": "Collection detail from Collections",
+    "href": "/flows/dc9e8970-ab4c-4c12-8d72-b0dc689ff805"
+  },
+  {
+    "title": "Collections from Library",
+    "href": "/flows/0741e2ac-c263-4a00-981a-b2c7ce873fb8"
+  },
+  {
+    "title": "Completing a lesson from Collection detail",
+    "href": "/flows/92380915-d1d3-4c2b-b2da-f6f7a6e2c84b"
+  },
+  {
+    "title": "Breathe from Library",
+    "href": "/flows/a4a51054-0a2b-4d99-aa45-c76f08de53a0"
+  },
+  {
+    "title": "Weekly themes from Library",
+    "href": "/flows/de495541-d764-4118-a7b8-ab6d7a308590"
+  },
+  {
+    "title": "Completing an exercise (breathing) from Breathe",
+    "href": "/flows/9ca89b41-e6bd-4978-a9f0-02360e3f735c"
+  },
+  {
+    "title": "Lesson detail from Breathe",
+    "href": "/flows/ee69ad3b-7cec-4737-bc7a-425cb1c441ed"
+  },
+  {
+    "title": "Setting up exercise preferences  from Completing an exercise (breathing)",
+    "href": "/flows/fc324f7f-bf3c-48a2-9c3e-b41d8639e11e"
+  },
+  {
+    "title": "Meditate from Library",
+    "href": "/flows/a595b708-5ce7-4ca0-8df4-c42fd4c3eab2"
+  },
+  {
+    "title": "Customizing background sounds from Completing an exercise (meditation)",
+    "href": "/flows/55313375-ed81-4d66-afce-da326af60fda"
+  },
+  {
+    "title": "Completing an exercise (meditation) from Meditate",
+    "href": "/flows/2f47389f-316e-4118-8cca-2ad0323be980"
+  },
+  {
+    "title": "Completing an exercise (walking meditation) from Meditate",
+    "href": "/flows/39c34c63-77e8-412b-8d8a-b7e58a223d1d"
+  },
+  {
+    "title": "Pausing an exercise from Completing an exercise (meditation)",
+    "href": "/flows/43d32e65-4b97-4019-bc56-7238f502f9b1"
+  },
+  {
+    "title": "Searching stoic. from Library",
+    "href": "/flows/d38a549c-e655-44c0-a725-de9519ee141f"
+  },
+  {
+    "title": "Trends & insights from Journey",
+    "href": "/flows/d5e37110-80a8-46b2-bb64-92db47de8c14"
+  },
+  {
+    "title": "Journey",
+    "href": "/flows/f338c549-c18a-45db-81f1-12819c1eadfa"
+  },
+  {
+    "title": "Mood calendar from Trends & insights",
+    "href": "/flows/df561c7b-5192-4325-b6a2-ed57e04ffb86"
+  },
+  {
+    "title": "Hiding a chart from Trends & insights",
+    "href": "/flows/ac50c5bb-63ef-49b9-9f3f-22bc9797bdba"
+  },
+  {
+    "title": "Switching data views from Trends & insights",
+    "href": "/flows/a6b44744-1289-4c69-9b53-871f002940ac"
+  },
+  {
+    "title": "Excluding words from words cloud from Trends & insights",
+    "href": "/flows/073e4bf7-bde2-4beb-9ea0-01dac6b6295e"
+  },
+  {
+    "title": "Sorting by months from Trends & insights",
+    "href": "/flows/a1411599-418b-4bc3-ba75-6bc9e3aab578"
+  },
+  {
+    "title": "Removing an excluded word from Excluding words from words cloud",
+    "href": "/flows/576943f3-20e4-4c10-a7a7-fdf166ad01c9"
+  },
+  {
+    "title": "Entry detail from Journey",
+    "href": "/flows/6d60494e-372e-40eb-9a85-7918a006669d"
+  },
+  {
+    "title": "Daily entries from Journey",
+    "href": "/flows/57fd0d4e-72ed-4dec-9d48-5cd80cd16dab"
+  },
+  {
+    "title": "Listening to a voice recording from Entry detail",
+    "href": "/flows/051a4c2e-7372-45b6-afac-c44a35d64b14"
+  },
+  {
+    "title": "Filtering entries from Journey",
+    "href": "/flows/26be6dd7-9c58-4c79-ae6a-a94e00b2e08c"
+  },
+  {
+    "title": "Badges",
+    "href": "/flows/6b59a91e-58e4-406d-8e7f-35cc5b6cb6cd"
+  },
+  {
+    "title": "Sorting entries from Journey",
+    "href": "/flows/a3ff7803-dd59-45f7-a2e0-0268ab305a1b"
+  },
+  {
+    "title": "All badges from Badges",
+    "href": "/flows/00766360-0970-49eb-9359-b51185401078"
+  },
+  {
+    "title": "Unlocked badges from Badges",
+    "href": "/flows/8d436708-ed5c-4afd-8222-06414239bff9"
+  },
+  {
+    "title": "Stats",
+    "href": "/flows/57119b1d-79de-4199-b288-cf49b237d13c"
+  },
+  {
+    "title": "Switching to dark mode from Profile",
+    "href": "/flows/941037fb-0eab-46ce-a38b-1982117f5571"
+  },
+  {
+    "title": "Profile",
+    "href": "/flows/eee28256-463d-467a-85da-a28fa4a20ddd"
+  },
+  {
+    "title": "Setting up stoic shield from Profile",
+    "href": "/flows/09a3ce57-5fd1-4bda-aa81-89e354652925"
+  },
+  {
+    "title": "Updating a blocking schedule from Setting up stoic shield",
+    "href": "/flows/85a22402-a64f-4042-8ecd-13bac9c2aba9"
+  },
+  {
+    "title": "Privacy policy from Profile",
+    "href": "/flows/28ad29b5-f55f-4439-88fb-551189e690b3"
+  },
+  {
+    "title": "Turning on notifications from Profile",
+    "href": "/flows/8efdc6cc-bf7c-43a4-9783-10711f9eedd3"
+  }
+]

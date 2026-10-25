@@ -1,0 +1,18 @@
+{
+  "index": 36,
+  "listTitle": "Meditate from Library",
+  "detailTitle": "Meditate on stoic.",
+  "url": "https://mobbin.com/flows/a595b708-5ce7-4ca0-8df4-c42fd4c3eab2?tab=screens",
+  "expectedId": "a595b708-5ce7-4ca0-8df4-c42fd4c3eab2",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 4,
+  "savedImageCount": 4,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\meditate-from-library-a595b708",
+  "alts": [
+    "Meditate on stoic. (ios) screen 1",
+    "Meditate on stoic. (ios) screen 2",
+    "Meditate on stoic. (ios) screen 3",
+    "Meditate on stoic. (ios) screen 4"
+  ]
+}

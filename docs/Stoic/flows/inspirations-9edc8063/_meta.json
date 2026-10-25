@@ -1,0 +1,22 @@
+{
+  "index": 17,
+  "listTitle": "Inspirations",
+  "detailTitle": "Inspirations on stoic.",
+  "url": "https://mobbin.com/flows/9edc8063-68fb-493d-9093-9ec5cff81553?tab=screens",
+  "expectedId": "9edc8063-68fb-493d-9093-9ec5cff81553",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 8,
+  "savedImageCount": 8,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\inspirations-9edc8063",
+  "alts": [
+    "Inspirations on stoic. (ios) screen 1",
+    "Inspirations on stoic. (ios) screen 2",
+    "Inspirations on stoic. (ios) screen 3",
+    "Inspirations on stoic. (ios) screen 4",
+    "Inspirations on stoic. (ios) screen 5",
+    "Inspirations on stoic. (ios) screen 6",
+    "Inspirations on stoic. (ios) screen 7",
+    "Inspirations on stoic. (ios) screen 8"
+  ]
+}

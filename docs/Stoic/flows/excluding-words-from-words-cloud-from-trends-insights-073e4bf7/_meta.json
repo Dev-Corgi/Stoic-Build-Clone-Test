@@ -1,0 +1,21 @@
+{
+  "index": 47,
+  "listTitle": "Excluding words from words cloud from Trends & insights",
+  "detailTitle": "Excluding words from words cloud on stoic.",
+  "url": "https://mobbin.com/flows/073e4bf7-bde2-4beb-9ea0-01dac6b6295e?tab=screens",
+  "expectedId": "073e4bf7-bde2-4beb-9ea0-01dac6b6295e",
+  "titleAndUrlMatch": true,
+  "device": "iOS (393x852)",
+  "detailScreenCount": 7,
+  "savedImageCount": 7,
+  "folder": "C:\\Working\\StoicBuildCloneTest\\docs\\Stoic\\flows\\excluding-words-from-words-cloud-from-trends-insights-073e4bf7",
+  "alts": [
+    "Excluding words from words cloud on stoic. (ios) screen 1",
+    "Excluding words from words cloud on stoic. (ios) screen 2",
+    "Excluding words from words cloud on stoic. (ios) screen 3",
+    "Excluding words from words cloud on stoic. (ios) screen 4",
+    "Excluding words from words cloud on stoic. (ios) screen 5",
+    "Excluding words from words cloud on stoic. (ios) screen 6",
+    "Excluding words from words cloud on stoic. (ios) screen 7"
+  ]
+}
